@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "msK3Xug5NKGFNMEGmQzOJQxHzTauL2lvSH+uhtgK8Xk=",
+  "Source": "TelecomAppBackend",
+  "BasePath": "_content/TelecomAppBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
